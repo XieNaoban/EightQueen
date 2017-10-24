@@ -1,0 +1,10 @@
+F:\Projects\Visual Studio\C#\EightQueen\EightQueen\bin\Release\EightQueen.exe.config
+F:\Projects\Visual Studio\C#\EightQueen\EightQueen\bin\Release\EightQueen.exe
+F:\Projects\Visual Studio\C#\EightQueen\EightQueen\bin\Release\EightQueen.pdb
+F:\Projects\Visual Studio\C#\EightQueen\EightQueen\obj\Release\EightQueen.csprojResolveAssemblyReference.cache
+F:\Projects\Visual Studio\C#\EightQueen\EightQueen\obj\Release\EightQueen.MainForm.resources
+F:\Projects\Visual Studio\C#\EightQueen\EightQueen\obj\Release\EightQueen.PannelForm.resources
+F:\Projects\Visual Studio\C#\EightQueen\EightQueen\obj\Release\EightQueen.Properties.Resources.resources
+F:\Projects\Visual Studio\C#\EightQueen\EightQueen\obj\Release\EightQueen.csproj.GenerateResource.Cache
+F:\Projects\Visual Studio\C#\EightQueen\EightQueen\obj\Release\EightQueen.exe
+F:\Projects\Visual Studio\C#\EightQueen\EightQueen\obj\Release\EightQueen.pdb
